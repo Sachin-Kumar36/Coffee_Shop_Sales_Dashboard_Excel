@@ -69,7 +69,3 @@ The dashboard helps analyze:
 
 <img width="1058" height="486" alt="Coffee Shop Sales" src="https://github.com/user-attachments/assets/0972844d-e1d8-4004-8a00-9beb81d7e539" />
 
-
-## 👤 Project
-
-Created as a **Data Analyst portfolio project** to demonstrate practical Excel data analysis and dashboarding skills.
